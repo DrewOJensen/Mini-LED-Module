@@ -1,0 +1,3 @@
+Mini LED Module
+
+This project started out as my first schematic to prototype project. It's a very simple LED module that has a small through hole switch, 0603 resistor, 5mm LED and a CR2032 battery. The LED is placed on the back side since the original project required it. This board was create to hang in the top of a rice lantern and illuminate from the bottom side. Can be used in many other applications.
